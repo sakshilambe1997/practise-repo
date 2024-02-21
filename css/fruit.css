@@ -6,7 +6,7 @@
 }
 
 .apple {
-    border: solid 3px #cc0000;
+    border: solid 5px #cc0000;
     height: 500px;
     width: 700px;
     margin: 50px auto;
@@ -17,7 +17,7 @@
 
 .img {
     height: 150px;
-    border: double #ffcc00 5px;
+    border: double #ffcc00 px;
 
 }
 
@@ -29,7 +29,7 @@
 /*-- banana--*/
 
 .banana {
-    border: solid 3px #cc0000;
+    border: solid 5px #cc0000;
     height: 500px;
     width: 700px;
     margin: 50px auto;
@@ -56,7 +56,7 @@
 /*-- Santri--*/
 
 .santri {
-    border: solid 3px #cc0000;
+    border: solid 5px #cc0000;
     height: 500px;
     width: 700px;
     margin: 50px auto;
