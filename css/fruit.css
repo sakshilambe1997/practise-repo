@@ -1,7 +1,85 @@
-.heading{
+.card1 {
     color: #ff0000;
-    background-color: #b3ff99;
+    background-color: #80ffaa;
     text-align: center;
     border-radius: 10px;
 }
 
+.apple {
+    border: solid 5px #cc0000;
+    height: 500px;
+    width: 700px;
+    margin: 50px auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.img {
+    height: 150px;
+    border: double #ffcc00 px;
+
+}
+
+.text1 {
+    font-size: 30px;
+
+}
+
+/*-- banana--*/
+
+.banana {
+    border: solid 5px #cc0000;
+    height: 500px;
+    width: 700px;
+    margin: 50px auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card2 {
+    color: #ff0000;
+    background-color: #80ffaa;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.img2 {
+    height: 150px;
+    border: double #ffcc00 5px;
+}
+
+.text2 {
+    font-size: 30px;
+}
+
+/*-- Santri--*/
+
+.santri {
+    border: solid 5px #cc0000;
+    height: 500px;
+    width: 700px;
+    margin: 50px auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card3 {
+    color: #ff0000;
+    background-color: #80ffaa;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.img3 {
+    height: 150px;
+    border: double #ffcc00 5px;
+}
+
+.text3 {
+    font-size: 30px;
+}
