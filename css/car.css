@@ -9,11 +9,13 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
+    border-radius: 10px;
 
 }
 .logo{
     height: 70px;
     margin-left: 10px;
+    border-radius: 10px;
 
 }
 .heading{
