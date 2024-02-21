@@ -1,6 +1,6 @@
 .card1{
     color: #ff0000;
-    background-color: #b3ff99;
+    background-color: #ff5c33;
     text-align: center;
     border-radius: 10px;
 }
@@ -10,7 +10,7 @@
     height: 500px;
     width: 700px;
     margin: 50px auto;
-    background-color: #ffffb3;
+    background-color: #ff5c33;
     text-align: center;
 
 }
@@ -31,12 +31,13 @@
     height: 500px;
     width: 700px;
     margin: 50px auto;
-    background-color:#ffb366;
+    background-color:#ff5c33
+    ;
     text-align: center;
 }
 .card2{
     color: #ff0000;
-    background-color: #b3ff99;
+    background-color:#ff5c33;
     text-align: center;
     border-radius: 10px;}
 
@@ -55,12 +56,12 @@
     height: 500px;
     width: 700px;
     margin: 50px auto;
-    background-color:#e6ff99;
+    background-color:#ff5c33;
     text-align: center;
 }
 .card3{
     color: #ff0000;
-    background-color: #b3ff99;
+    background-color:#ff5c33;
     text-align: center;
     border-radius: 10px;}
 
