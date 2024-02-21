@@ -1,11 +1,11 @@
-.card1{
+.card1 {
     color: #ff0000;
-    background-color: #ff5c33;
+    background-color: #80ffaa;
     text-align: center;
     border-radius: 10px;
 }
 
-.apple{
+.apple {
     border: solid 3px black;
     height: 500px;
     width: 700px;
@@ -14,62 +14,68 @@
     text-align: center;
 
 }
-.img{
+
+.img {
     height: 150px;
-  border: double #ffcc00 5px;
-    
+    border: double #ffcc00 5px;
+
 }
-.text1{
+
+.text1 {
     font-size: 30px;
-    
+
 }
 
 /*-- banana--*/
 
-.banana{
+.banana {
     border: solid 3px black;
     height: 500px;
     width: 700px;
     margin: 50px auto;
-    background-color:#ff5c33
-    ;
+    background-color: #ff5c33;
     text-align: center;
 }
-.card2{
-    color: #ff0000;
-    background-color:#ff5c33;
-    text-align: center;
-    border-radius: 10px;}
 
-.img2{
+.card2 {
+    color: #ff0000;
+    background-color: #80ffaa;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.img2 {
     height: 150px;
     border: double #ffcc00 5px;
-} 
-.text2{
+}
+
+.text2 {
     font-size: 30px;
 }
 
 /*-- Santri--*/
 
-.santri{
+.santri {
     border: solid 3px black;
     height: 500px;
     width: 700px;
     margin: 50px auto;
-    background-color:#ff5c33;
+    background-color: #ff5c33;
     text-align: center;
 }
-.card3{
-    color: #ff0000;
-    background-color:#ff5c33;
-    text-align: center;
-    border-radius: 10px;}
 
-.img3{
+.card3 {
+    color: #ff0000;
+    background-color: #80ffaa;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.img3 {
     height: 150px;
     border: double #ffcc00 5px;
-} 
-.text3{
-    font-size: 30px;
 }
 
+.text3 {
+    font-size: 30px;
+}
