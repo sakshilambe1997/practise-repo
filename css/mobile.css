@@ -1,6 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(182, 252, 229);
+}
 .header{
     text-align: center;
     color: aqua;
     background-color: #000000;
     border-radius: 15px;
+}
+.card-mobile{
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: solid black 3px;
+    display: inline-block;
+    width: 150px;
+    height: 250px;
+    margin: 50px 30px 50px 30px;
+    padding: 50px 20px  50px 20px;
 }
