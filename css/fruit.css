@@ -16,7 +16,7 @@
 }
 .img{
     height: 150px;
-  border: double #00ff00 5px;
+  border: double #ffcc00 5px;
     
 }
 .text1{
@@ -43,7 +43,7 @@
 
 .img2{
     height: 150px;
-    border: double #00ff00 5px;
+    border: double #ffcc00 5px;
 } 
 .text2{
     font-size: 30px;
@@ -67,7 +67,7 @@
 
 .img3{
     height: 150px;
-    border: double #00ff00 5px;
+    border: double #ffcc00 5px;
 } 
 .text3{
     font-size: 30px;
