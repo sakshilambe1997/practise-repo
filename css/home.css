@@ -1,0 +1,9 @@
+.heading{
+    background-color: aqua;
+    text-align: center;
+}
+
+.img{
+    position: relative;
+    left: 450px;
+}
