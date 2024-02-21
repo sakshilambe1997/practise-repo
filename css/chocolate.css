@@ -1,0 +1,15 @@
+.header-container{
+    height: 50px;
+    width: auto;
+    background-color: #ff6666;
+    margin: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    color: #990000;
+    padding-top: 10px;
+}
