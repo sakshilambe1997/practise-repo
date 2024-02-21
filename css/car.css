@@ -17,6 +17,7 @@ body{
 
 }
 .heading{
+    
     font-size: 40px;
     margin: 20px;
 }
@@ -24,9 +25,17 @@ body{
     font-size: 20px;
     text-align: justify;
     margin: 70px 20px;
+    color: tomato;
+}
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+  
 }
 .card{
     margin: 20px;
+    height: 250px;
     width: 300px;
     background: white;
     border-radius: 15px;
