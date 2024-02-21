@@ -12,6 +12,7 @@
     margin: 50px auto;
     background-color: #ff5c33;
     text-align: center;
+    border-radius: 10px;
 
 }
 
@@ -35,6 +36,7 @@
     margin: 50px auto;
     background-color: #ff5c33;
     text-align: center;
+    border-radius: 10px;
 }
 
 .card2 {
@@ -62,6 +64,7 @@
     margin: 50px auto;
     background-color: #ff5c33;
     text-align: center;
+    border-radius: 10px;
 }
 
 .card3 {
@@ -69,6 +72,7 @@
     background-color: #80ffaa;
     text-align: center;
     border-radius: 10px;
+    
 }
 
 .img3 {
